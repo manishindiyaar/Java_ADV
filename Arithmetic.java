@@ -29,7 +29,7 @@ public class Arithmetic{
         System.out.println("Enter only numeric data");
         System.out.println("\n Error : " +e.toString());
     } catch(NumberMismatchException e){
-        System.out.println("")
+        System.out.println("");
     }
     }
 }
